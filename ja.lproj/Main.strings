@@ -1,0 +1,66 @@
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "2xd-Ha-4fe"; */
+"2xd-Ha-4fe.title" = "Item";
+
+/* Class = "UILabel"; text = "区域"; ObjectID = "4Jv-mR-Yno"; */
+"4Jv-mR-Yno.text" = "区域";
+
+/* Class = "UILabel"; text = "省"; ObjectID = "4aA-JP-ZEV"; */
+"4aA-JP-ZEV.text" = "省";
+
+/* Class = "UILabel"; text = "我来过"; ObjectID = "4c9-aM-1tp"; */
+"4c9-aM-1tp.text" = "我来过";
+
+/* Class = "UIButton"; normalTitle = "否"; ObjectID = "50W-LC-MA3"; */
+"50W-LC-MA3.normalTitle" = "否";
+
+/* Class = "UILabel"; text = "名称"; ObjectID = "8mE-br-5nO"; */
+"8mE-br-5nO.text" = "名称";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "9cd-M8-D7w"; */
+"9cd-M8-D7w.title" = "Item";
+
+/* Class = "UITextField"; placeholder = "输入省"; ObjectID = "EpD-gf-7Fe"; */
+"EpD-gf-7Fe.placeholder" = "输入省";
+
+/* Class = "UILabel"; text = "省"; ObjectID = "KgA-TX-Fns"; */
+"KgA-TX-Fns.text" = "省";
+
+/* Class = "UILabel"; text = "字段"; ObjectID = "NHz-3d-jcu"; */
+"NHz-3d-jcu.text" = "字段";
+
+/* Class = "UITextField"; placeholder = "输入地名"; ObjectID = "Ot4-Zc-1e3"; */
+"Ot4-Zc-1e3.placeholder" = "输入地名";
+
+/* Class = "UIButton"; normalTitle = "是"; ObjectID = "P6x-Cb-sLb"; */
+"P6x-Cb-sLb.normalTitle" = "是";
+
+/* Class = "UITextField"; placeholder = "输入地区"; ObjectID = "Tl4-dp-ub4"; */
+"Tl4-dp-ub4.placeholder" = "输入地区";
+
+/* Class = "UIButton"; normalTitle = "立即体验"; ObjectID = "UbA-zP-cv3"; */
+"UbA-zP-cv3.normalTitle" = "立即体验";
+
+/* Class = "UINavigationItem"; title = "新增"; ObjectID = "a7b-AD-YsF"; */
+"a7b-AD-YsF.title" = "新增";
+
+/* Class = "UILabel"; text = "Swift3.1语法适配，超人一步"; ObjectID = "bfz-BN-CXw"; */
+"bfz-BN-CXw.text" = "Swift3.1语法适配，超人一步";
+
+/* Class = "UILabel"; text = "值"; ObjectID = "dKY-rL-sb5"; */
+"dKY-rL-sb5.text" = "值";
+
+/* Class = "UILabel"; text = "Swift3"; ObjectID = "gNG-Qt-vMv"; */
+"gNG-Qt-vMv.text" = "Swift3";
+
+/* Class = "UILabel"; text = "我来过，评价一下吧！"; ObjectID = "l49-kT-ol8"; */
+"l49-kT-ol8.text" = "我来过，评价一下吧！";
+
+/* Class = "UILabel"; text = "地区"; ObjectID = "pey-41-91v"; */
+"pey-41-91v.text" = "地区";
+
+/* Class = "UILabel"; text = "地名"; ObjectID = "tHM-Wp-Gw1"; */
+"tHM-Wp-Gw1.text" = "地名";
+
+/* Class = "UINavigationItem"; title = "粉丝区域"; ObjectID = "wFt-Fr-0ch"; */
+"wFt-Fr-0ch.title" = "粉丝区域";
